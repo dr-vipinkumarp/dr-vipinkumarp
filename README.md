@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Python, C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cybervortexnexus](https://github.com/cybervortexnexus)
+- 👨‍💻 All of my projects are available at [https://github.com/dr-vipinkumarp](https://github.com/dr-vipinkumarp)
 
-- 📫 How to reach me **cybervortexnexus@gmail.com**
+- 📫 How to reach me **drvipinkumarp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
