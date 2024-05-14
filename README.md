@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybervortexnexus&label=Profile%20views&color=0e75b6&style=flat" alt="cybervortexnexus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybervortexnexus" alt="cybervortexnexus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-vipinkumarp" alt="dr-vipinkumarp" /></a> </p>
 
 - 🔭 I’m currently working on **System Diagnosis and Analytics Software Development**
 
