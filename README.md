@@ -1,36 +1,105 @@
 <h1 align="center">Hi 👋, I am Dr. VipinKumar P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">EV & Avionics Architect | Embedded SW & Integration Engineer | Diagnostics | PCB Design (Altium, KiCAD) | UAV Navigation | ADAS | MATLAB/Simulink | Linux | C++ | Li-ion Battery & BMS Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybervortexnexus&label=Profile%20views&color=0e75b6&style=flat" alt="cybervortexnexus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-vipinkumarp" alt="dr-vipinkumarp" /></a> </p>
-
-- 🔭 I’m currently working on **System Diagnosis and Analytics Software Development**
-
-- 👯 I’m looking to collaborate on **System Diagnosis and Analytics Software development**
-
-- 🌱 I’m currently learning **Python, C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dr-vipinkumarp](https://github.com/dr-vipinkumarp)
-
-- 📫 How to reach me **drvipinkumarp@gmail.com**
-  
-- 🔭 Linkedin Profile : **https://www.linkedin.com/in/drvipinkumarp/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dr-vipinkumarp&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dr-vipinkumarp" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-vipinkumarp&show_icons=true&locale=en&layout=compact" alt="dr-vipinkumarp" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybervortexnexus&show_icons=true&locale=en" alt="cybervortexnexus" /></p>
+### 👨‍🔬 About Me
 
+Hello there! I'm **Dr. VipinKumar P**, a passionate individual with a thriving background in the world of **Automotive Embedded Systems**. With a **PhD** to my name, I have dedicated myself to this field, earning recognition through prestigious accolades, such as the **Research Excellent Award (2021)** 🏆.
+
+As an active member of:
+- MIEEE (Institute of Electrical and Electronics Engineers)  
+- ATSC (Advanced Technology Steering Committee)  
+- MIFERP (International Federation of Engineering and Research Publications)  
+- MINSC (International Network for Scientific and Engineering Computation)  
+- MAIENG (Association of International Engineers)  
+
+I’ve had the privilege to work alongside top professionals across the globe.
+
+---
+
+### 🚀 Professional Expertise
+
+- 🚘 **Ballistic Missile and UAV Navigation/Positioning**
+- 🚗 **ADAS (Advanced Driver Assistance Systems)**
+- ⚡ **EVCC / CCS2 Charging Protocols**
+- 🛠️ **Real-Time Operating Systems (RTOS) & Embedded Linux**
+- 🔧 **PCB Design using Altium and KiCAD**
+- 💻 **Programming:** `C/C++`, `VB.Net`, `Python`, `QT`, `MATLAB Simulink`
+- 🔋 **Battery Management Systems (BMS)** and **Li-ion Battery Modeling**
+- 🔍 **System Diagnostics & Analytics Software Development**
+
+---
+
+### 🔭 Currently Working On
+- **System Diagnosis and Analytics Software**
+- Research and development in **EV & ADAS embedded control units**
+
+### 🤝 I’m Looking to Collaborate On
+- **Advanced Diagnostics and Embedded Automotive Platforms**
+- **EV charger-controller interface and UAV position feedback systems**
+
+### 🌱 Currently Learning
+- **Python**, **C#**, **Machine Learning for Embedded Systems**
+
+### 💬 Let's Talk About
+- #EmbeddedSystems  
+- #PCBDesign  
+- #EVTechnologies  
+- #FirmwareDevelopment  
+- #ADAS  
+- #EmbeddedLinux  
+- #UAVNavigation  
+- #CANProtocols  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 **Email:** drvipinkumarp@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/drvipinkumarp](https://www.linkedin.com/in/drvipinkumarp/)  
+- 🌐 **Portfolio/GitHub:** [github.com/dr-vipinkumarp](https://github.com/dr-vipinkumarp)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/products/simulink.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.altium.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Altium_Designer_logo.svg/512px-Altium_Designer_logo.svg.png" alt="altium" width="40" height="40"/></a>
+  <a href="https://www.kicad.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/KiCad-Logo.svg" alt="kicad" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-vipinkumarp&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dr-vipinkumarp&show_icons=true&theme=default" alt="GitHub Stats"/></p>
+
+---
 
 <!---
-cybervortexnexus/cybervortexnexus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+dr-vipinkumarp/dr-vipinkumarp is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+You can click the Preview link to see it in action.
 --->
-
